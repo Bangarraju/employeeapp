@@ -1,0 +1,2 @@
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
