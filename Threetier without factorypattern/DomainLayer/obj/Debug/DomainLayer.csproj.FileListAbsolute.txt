@@ -1,0 +1,17 @@
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\bangaruraju.yerra\Desktop\EmployeePortal\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\bangaruraju.yerra\Desktop\EmployeePortal\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\bangaruraju.yerra\Desktop\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\Users\bangaruraju.yerra\Desktop\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\bangaruraju.yerra\Desktop\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\bangaruraju.yerra\Desktop\EmployeePortal\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\Users\bangaruraju.yerra\Desktop\bangaruraju.yerra\Threetier without factorypattern\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\bangaruraju.yerra\Desktop\bangaruraju.yerra\Threetier without factorypattern\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\bangaruraju.yerra\Desktop\bangaruraju.yerra\Threetier without factorypattern\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\bangaruraju.yerra\Desktop\bangaruraju.yerra\Threetier without factorypattern\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\bangaruraju.yerra\Desktop\bangaruraju.yerra\Threetier without factorypattern\DomainLayer\obj\Debug\DomainLayer.pdb
